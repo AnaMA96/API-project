@@ -56,5 +56,5 @@ Here you are an example of the program execution:
 
 ![my screenshot](./input/captura.png)
 
-**PLEASE, in order to view properly the plots contained in the MUSIC.py file, open it from [nbviewer](https://nbviewer.jupyter.org), thank you.**
+**PLEASE, in order to view properly the plots contained in the MUSIC.py file, open it from [nbviewer](https://nbviewer.jupyter.org). If you still have trouble displaying them, please feel free to clone it and experiment from your local. Thank you.**
 
