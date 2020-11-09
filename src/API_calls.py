@@ -22,12 +22,8 @@ def get_artist_titles(artist):
 
     response = requests.request("GET", url, headers=headers, params=querystring)
     json = response.json()
-    titles = []
     songs_list = json["data"]
-    for song in songs_list:
-        #if song["title"] not in titles:
-        titles.append(song["title"])
-
+    titles = [ song['title'] for song in songs_list ]
     return titles
 
 def titles_in_dataset(artist, titles, start_year, end_year):
