@@ -1,0 +1,1001 @@
+,year,artists,song_count,cumsum
+0,1921,Эрнест Хемингуэй,0.0,0.0
+1,1921,The Beach Boys,0.0,0.0
+2,1921,Johnny Cash,0.0,0.0
+3,1921,The Rolling Stones,0.0,0.0
+4,1921,Bob Dylan,0.0,0.0
+5,1921,Frank Sinatra,0.0,0.0
+6,1921,Ignacio Corsini,21.0,21.0
+7,1921,Эрих Мария Ремарк,0.0,0.0
+8,1921,Francisco Canaro,0.0,0.0
+9,1921,Elvis Presley,0.0,0.0
+10,1922,Francisco Canaro,0.0,0.0
+11,1922,Frank Sinatra,0.0,0.0
+12,1922,Bob Dylan,0.0,0.0
+13,1922,The Rolling Stones,0.0,0.0
+14,1922,Ignacio Corsini,39.0,60.0
+15,1922,The Beach Boys,0.0,0.0
+16,1922,Эрнест Хемингуэй,0.0,0.0
+17,1922,Эрих Мария Ремарк,0.0,0.0
+18,1922,Johnny Cash,0.0,0.0
+19,1922,Elvis Presley,0.0,0.0
+20,1923,Elvis Presley,0.0,0.0
+21,1923,Эрнест Хемингуэй,0.0,0.0
+22,1923,The Beach Boys,0.0,0.0
+23,1923,Ignacio Corsini,19.0,79.0
+24,1923,Frank Sinatra,0.0,0.0
+25,1923,Эрих Мария Ремарк,0.0,0.0
+26,1923,Bob Dylan,0.0,0.0
+27,1923,Francisco Canaro,20.0,20.0
+28,1923,Johnny Cash,0.0,0.0
+29,1923,The Rolling Stones,0.0,0.0
+30,1924,Francisco Canaro,80.0,100.0
+31,1924,Эрнест Хемингуэй,0.0,0.0
+32,1924,Ignacio Corsini,19.0,98.0
+33,1924,The Beach Boys,0.0,0.0
+34,1924,Elvis Presley,0.0,0.0
+35,1924,The Rolling Stones,0.0,0.0
+36,1924,Frank Sinatra,0.0,0.0
+37,1924,Bob Dylan,0.0,0.0
+38,1924,Эрих Мария Ремарк,0.0,0.0
+39,1924,Johnny Cash,0.0,0.0
+40,1925,Ignacio Corsini,40.0,138.0
+41,1925,Bob Dylan,0.0,0.0
+42,1925,Эрнест Хемингуэй,0.0,0.0
+43,1925,The Beach Boys,0.0,0.0
+44,1925,The Rolling Stones,0.0,0.0
+45,1925,Frank Sinatra,0.0,0.0
+46,1925,Francisco Canaro,31.0,131.0
+47,1925,Эрих Мария Ремарк,0.0,0.0
+48,1925,Johnny Cash,0.0,0.0
+49,1925,Elvis Presley,0.0,0.0
+50,1926,Ignacio Corsini,67.0,205.0
+51,1926,Francisco Canaro,97.0,228.0
+52,1926,Bob Dylan,0.0,0.0
+53,1926,The Beach Boys,0.0,0.0
+54,1926,Johnny Cash,0.0,0.0
+55,1926,Frank Sinatra,0.0,0.0
+56,1926,Elvis Presley,0.0,0.0
+57,1926,Эрнест Хемингуэй,219.0,219.0
+58,1926,Эрих Мария Ремарк,0.0,0.0
+59,1926,The Rolling Stones,0.0,0.0
+60,1927,The Beach Boys,0.0,0.0
+61,1927,Francisco Canaro,227.0,455.0
+62,1927,Johnny Cash,0.0,0.0
+63,1927,Эрнест Хемингуэй,0.0,219.0
+64,1927,Elvis Presley,0.0,0.0
+65,1927,Ignacio Corsini,75.0,280.0
+66,1927,Bob Dylan,0.0,0.0
+67,1927,The Rolling Stones,0.0,0.0
+68,1927,Frank Sinatra,0.0,0.0
+69,1927,Эрих Мария Ремарк,0.0,0.0
+70,1928,Эрнест Хемингуэй,0.0,219.0
+71,1928,The Rolling Stones,0.0,0.0
+72,1928,Francisco Canaro,90.0,545.0
+73,1928,The Beach Boys,0.0,0.0
+74,1928,Ignacio Corsini,100.0,380.0
+75,1928,Эрих Мария Ремарк,0.0,0.0
+76,1928,Bob Dylan,0.0,0.0
+77,1928,Elvis Presley,0.0,0.0
+78,1928,Johnny Cash,0.0,0.0
+79,1928,Frank Sinatra,0.0,0.0
+80,1929,The Rolling Stones,0.0,0.0
+81,1929,Elvis Presley,0.0,0.0
+82,1929,Эрнест Хемингуэй,180.0,399.0
+83,1929,Frank Sinatra,0.0,0.0
+84,1929,Johnny Cash,0.0,0.0
+85,1929,Эрих Мария Ремарк,245.0,245.0
+86,1929,Ignacio Corsini,59.0,439.0
+87,1929,The Beach Boys,0.0,0.0
+88,1929,Bob Dylan,0.0,0.0
+89,1929,Francisco Canaro,134.0,679.0
+90,1930,Эрих Мария Ремарк,0.0,245.0
+91,1930,Elvis Presley,0.0,0.0
+92,1930,Ignacio Corsini,60.0,499.0
+93,1930,The Rolling Stones,0.0,0.0
+94,1930,Johnny Cash,0.0,0.0
+95,1930,Frank Sinatra,0.0,0.0
+96,1930,Francisco Canaro,62.0,741.0
+97,1930,The Beach Boys,0.0,0.0
+98,1930,Эрнест Хемингуэй,0.0,399.0
+99,1930,Bob Dylan,0.0,0.0
+100,1931,Francisco Canaro,47.0,788.0
+101,1931,Bob Dylan,0.0,0.0
+102,1931,Ignacio Corsini,39.0,538.0
+103,1931,Эрих Мария Ремарк,0.0,245.0
+104,1931,Johnny Cash,0.0,0.0
+105,1931,Эрнест Хемингуэй,0.0,399.0
+106,1931,Elvis Presley,0.0,0.0
+107,1931,The Beach Boys,0.0,0.0
+108,1931,Frank Sinatra,0.0,0.0
+109,1931,The Rolling Stones,0.0,0.0
+110,1932,Elvis Presley,0.0,0.0
+111,1932,Frank Sinatra,0.0,0.0
+112,1932,Bob Dylan,0.0,0.0
+113,1932,The Rolling Stones,0.0,0.0
+114,1932,Эрнест Хемингуэй,0.0,399.0
+115,1932,Эрих Мария Ремарк,0.0,245.0
+116,1932,Ignacio Corsini,20.0,558.0
+117,1932,Francisco Canaro,24.0,812.0
+118,1932,The Beach Boys,0.0,0.0
+119,1932,Johnny Cash,0.0,0.0
+120,1933,Эрих Мария Ремарк,0.0,245.0
+121,1933,Frank Sinatra,0.0,0.0
+122,1933,The Rolling Stones,0.0,0.0
+123,1933,Ignacio Corsini,20.0,578.0
+124,1933,Johnny Cash,0.0,0.0
+125,1933,Bob Dylan,0.0,0.0
+126,1933,Эрнест Хемингуэй,0.0,399.0
+127,1933,Francisco Canaro,4.0,816.0
+128,1933,Elvis Presley,0.0,0.0
+129,1933,The Beach Boys,0.0,0.0
+130,1934,Ignacio Corsini,20.0,598.0
+131,1934,Bob Dylan,0.0,0.0
+132,1934,Johnny Cash,0.0,0.0
+133,1934,Эрнест Хемингуэй,0.0,399.0
+134,1934,Эрих Мария Ремарк,0.0,245.0
+135,1934,Frank Sinatra,0.0,0.0
+136,1934,The Rolling Stones,0.0,0.0
+137,1934,The Beach Boys,0.0,0.0
+138,1934,Elvis Presley,0.0,0.0
+139,1934,Francisco Canaro,4.0,820.0
+140,1935,Elvis Presley,0.0,0.0
+141,1935,Frank Sinatra,0.0,0.0
+142,1935,Francisco Canaro,10.0,830.0
+143,1935,Эрнест Хемингуэй,277.0,676.0
+144,1935,The Rolling Stones,0.0,0.0
+145,1935,Johnny Cash,0.0,0.0
+146,1935,Bob Dylan,0.0,0.0
+147,1935,Ignacio Corsini,0.0,598.0
+148,1935,The Beach Boys,0.0,0.0
+149,1935,Эрих Мария Ремарк,0.0,245.0
+150,1936,Эрнест Хемингуэй,0.0,676.0
+151,1936,The Rolling Stones,0.0,0.0
+152,1936,Johnny Cash,0.0,0.0
+153,1936,Ignacio Corsini,0.0,598.0
+154,1936,Elvis Presley,0.0,0.0
+155,1936,Francisco Canaro,15.0,845.0
+156,1936,Bob Dylan,0.0,0.0
+157,1936,Frank Sinatra,0.0,0.0
+158,1936,Эрих Мария Ремарк,0.0,245.0
+159,1936,The Beach Boys,0.0,0.0
+160,1937,The Beach Boys,0.0,0.0
+161,1937,Johnny Cash,0.0,0.0
+162,1937,Elvis Presley,0.0,0.0
+163,1937,Эрнест Хемингуэй,0.0,676.0
+164,1937,The Rolling Stones,0.0,0.0
+165,1937,Bob Dylan,0.0,0.0
+166,1937,Эрих Мария Ремарк,0.0,245.0
+167,1937,Frank Sinatra,0.0,0.0
+168,1937,Francisco Canaro,13.0,858.0
+169,1937,Ignacio Corsini,0.0,598.0
+170,1938,The Beach Boys,0.0,0.0
+171,1938,Francisco Canaro,19.0,877.0
+172,1938,Эрнест Хемингуэй,0.0,676.0
+173,1938,The Rolling Stones,0.0,0.0
+174,1938,Ignacio Corsini,0.0,598.0
+175,1938,Bob Dylan,0.0,0.0
+176,1938,Frank Sinatra,0.0,0.0
+177,1938,Elvis Presley,0.0,0.0
+178,1938,Johnny Cash,0.0,0.0
+179,1938,Эрих Мария Ремарк,0.0,245.0
+180,1939,The Beach Boys,0.0,0.0
+181,1939,Johnny Cash,0.0,0.0
+182,1939,The Rolling Stones,0.0,0.0
+183,1939,Ignacio Corsini,0.0,598.0
+184,1939,Эрнест Хемингуэй,0.0,676.0
+185,1939,Elvis Presley,0.0,0.0
+186,1939,Bob Dylan,0.0,0.0
+187,1939,Эрих Мария Ремарк,0.0,245.0
+188,1939,Francisco Canaro,8.0,885.0
+189,1939,Frank Sinatra,3.0,3.0
+190,1940,Эрих Мария Ремарк,0.0,245.0
+191,1940,The Rolling Stones,0.0,0.0
+192,1940,Elvis Presley,0.0,0.0
+193,1940,Bob Dylan,0.0,0.0
+194,1940,Johnny Cash,0.0,0.0
+195,1940,Francisco Canaro,11.0,896.0
+196,1940,The Beach Boys,0.0,0.0
+197,1940,Эрнест Хемингуэй,391.0,1067.0
+198,1940,Frank Sinatra,0.0,3.0
+199,1940,Ignacio Corsini,11.0,609.0
+200,1941,Эрих Мария Ремарк,0.0,245.0
+201,1941,Francisco Canaro,4.0,900.0
+202,1941,Bob Dylan,0.0,0.0
+203,1941,The Beach Boys,0.0,0.0
+204,1941,Frank Sinatra,0.0,3.0
+205,1941,Johnny Cash,0.0,0.0
+206,1941,The Rolling Stones,0.0,0.0
+207,1941,Elvis Presley,0.0,0.0
+208,1941,Ignacio Corsini,0.0,609.0
+209,1941,Эрнест Хемингуэй,0.0,1067.0
+210,1942,Эрих Мария Ремарк,0.0,245.0
+211,1942,Johnny Cash,0.0,0.0
+212,1942,Elvis Presley,0.0,0.0
+213,1942,Bob Dylan,0.0,0.0
+214,1942,The Rolling Stones,0.0,0.0
+215,1942,Эрнест Хемингуэй,0.0,1067.0
+216,1942,The Beach Boys,0.0,0.0
+217,1942,Frank Sinatra,0.0,3.0
+218,1942,Francisco Canaro,13.0,913.0
+219,1942,Ignacio Corsini,0.0,609.0
+220,1943,The Beach Boys,0.0,0.0
+221,1943,The Rolling Stones,0.0,0.0
+222,1943,Эрнест Хемингуэй,0.0,1067.0
+223,1943,Frank Sinatra,17.0,20.0
+224,1943,Francisco Canaro,0.0,913.0
+225,1943,Johnny Cash,0.0,0.0
+226,1943,Эрих Мария Ремарк,0.0,245.0
+227,1943,Bob Dylan,0.0,0.0
+228,1943,Ignacio Corsini,0.0,609.0
+229,1943,Elvis Presley,0.0,0.0
+230,1944,Ignacio Corsini,0.0,609.0
+231,1944,Francisco Canaro,15.0,928.0
+232,1944,Эрих Мария Ремарк,0.0,245.0
+233,1944,The Rolling Stones,0.0,0.0
+234,1944,Bob Dylan,0.0,0.0
+235,1944,Frank Sinatra,35.0,55.0
+236,1944,Elvis Presley,0.0,0.0
+237,1944,Эрнест Хемингуэй,0.0,1067.0
+238,1944,Johnny Cash,0.0,0.0
+239,1944,The Beach Boys,0.0,0.0
+240,1945,Ignacio Corsini,0.0,609.0
+241,1945,Bob Dylan,0.0,0.0
+242,1945,Frank Sinatra,4.0,59.0
+243,1945,Эрих Мария Ремарк,536.0,781.0
+244,1945,Эрнест Хемингуэй,0.0,1067.0
+245,1945,Johnny Cash,0.0,0.0
+246,1945,The Beach Boys,0.0,0.0
+247,1945,Elvis Presley,0.0,0.0
+248,1945,The Rolling Stones,0.0,0.0
+249,1945,Francisco Canaro,0.0,928.0
+250,1946,Johnny Cash,0.0,0.0
+251,1946,Эрих Мария Ремарк,0.0,781.0
+252,1946,The Rolling Stones,0.0,0.0
+253,1946,Frank Sinatra,0.0,59.0
+254,1946,Ignacio Corsini,11.0,620.0
+255,1946,The Beach Boys,0.0,0.0
+256,1946,Bob Dylan,0.0,0.0
+257,1946,Elvis Presley,0.0,0.0
+258,1946,Francisco Canaro,2.0,930.0
+259,1946,Эрнест Хемингуэй,0.0,1067.0
+260,1947,Frank Sinatra,0.0,59.0
+261,1947,Bob Dylan,0.0,0.0
+262,1947,Elvis Presley,0.0,0.0
+263,1947,Ignacio Corsini,0.0,620.0
+264,1947,Эрих Мария Ремарк,0.0,781.0
+265,1947,The Rolling Stones,0.0,0.0
+266,1947,Francisco Canaro,3.0,933.0
+267,1947,The Beach Boys,0.0,0.0
+268,1947,Johnny Cash,3.0,3.0
+269,1947,Эрнест Хемингуэй,0.0,1067.0
+270,1948,Bob Dylan,0.0,0.0
+271,1948,Ignacio Corsini,0.0,620.0
+272,1948,Francisco Canaro,0.0,933.0
+273,1948,The Beach Boys,0.0,0.0
+274,1948,Johnny Cash,0.0,3.0
+275,1948,Эрих Мария Ремарк,0.0,781.0
+276,1948,Elvis Presley,0.0,0.0
+277,1948,Эрнест Хемингуэй,0.0,1067.0
+278,1948,Frank Sinatra,0.0,59.0
+279,1948,The Rolling Stones,0.0,0.0
+280,1949,Эрих Мария Ремарк,0.0,781.0
+281,1949,Elvis Presley,0.0,0.0
+282,1949,Эрнест Хемингуэй,0.0,1067.0
+283,1949,Bob Dylan,0.0,0.0
+284,1949,The Rolling Stones,0.0,0.0
+285,1949,Ignacio Corsini,0.0,620.0
+286,1949,Frank Sinatra,0.0,59.0
+287,1949,Johnny Cash,1.0,4.0
+288,1949,Francisco Canaro,2.0,935.0
+289,1949,The Beach Boys,0.0,0.0
+290,1950,Johnny Cash,0.0,4.0
+291,1950,Frank Sinatra,0.0,59.0
+292,1950,The Rolling Stones,0.0,0.0
+293,1950,Ignacio Corsini,0.0,620.0
+294,1950,Bob Dylan,0.0,0.0
+295,1950,The Beach Boys,0.0,0.0
+296,1950,Francisco Canaro,0.0,935.0
+297,1950,Эрих Мария Ремарк,0.0,781.0
+298,1950,Elvis Presley,0.0,0.0
+299,1950,Эрнест Хемингуэй,94.0,1161.0
+300,1951,Johnny Cash,1.0,5.0
+301,1951,The Rolling Stones,0.0,0.0
+302,1951,Francisco Canaro,2.0,937.0
+303,1951,Ignacio Corsini,0.0,620.0
+304,1951,Elvis Presley,0.0,0.0
+305,1951,The Beach Boys,0.0,0.0
+306,1951,Эрих Мария Ремарк,0.0,781.0
+307,1951,Frank Sinatra,0.0,59.0
+308,1951,Bob Dylan,0.0,0.0
+309,1951,Эрнест Хемингуэй,0.0,1161.0
+310,1952,Elvis Presley,0.0,0.0
+311,1952,Эрнест Хемингуэй,54.0,1215.0
+312,1952,Francisco Canaro,1.0,938.0
+313,1952,Bob Dylan,0.0,0.0
+314,1952,Ignacio Corsini,0.0,620.0
+315,1952,The Rolling Stones,0.0,0.0
+316,1952,The Beach Boys,0.0,0.0
+317,1952,Эрих Мария Ремарк,0.0,781.0
+318,1952,Johnny Cash,0.0,5.0
+319,1952,Frank Sinatra,0.0,59.0
+320,1953,Bob Dylan,0.0,0.0
+321,1953,Эрих Мария Ремарк,0.0,781.0
+322,1953,Francisco Canaro,0.0,938.0
+323,1953,Ignacio Corsini,0.0,620.0
+324,1953,Frank Sinatra,0.0,59.0
+325,1953,Эрнест Хемингуэй,0.0,1215.0
+326,1953,Johnny Cash,0.0,5.0
+327,1953,Elvis Presley,0.0,0.0
+328,1953,The Beach Boys,0.0,0.0
+329,1953,The Rolling Stones,0.0,0.0
+330,1954,The Beach Boys,0.0,0.0
+331,1954,Elvis Presley,0.0,0.0
+332,1954,Эрих Мария Ремарк,0.0,781.0
+333,1954,The Rolling Stones,0.0,0.0
+334,1954,Bob Dylan,0.0,0.0
+335,1954,Эрнест Хемингуэй,0.0,1215.0
+336,1954,Ignacio Corsini,0.0,620.0
+337,1954,Johnny Cash,3.0,8.0
+338,1954,Frank Sinatra,18.0,77.0
+339,1954,Francisco Canaro,0.0,938.0
+340,1955,Francisco Canaro,0.0,938.0
+341,1955,Elvis Presley,0.0,0.0
+342,1955,The Beach Boys,0.0,0.0
+343,1955,Эрнест Хемингуэй,0.0,1215.0
+344,1955,Frank Sinatra,16.0,93.0
+345,1955,Bob Dylan,0.0,0.0
+346,1955,Johnny Cash,5.0,13.0
+347,1955,Ignacio Corsini,0.0,620.0
+348,1955,The Rolling Stones,0.0,0.0
+349,1955,Эрих Мария Ремарк,0.0,781.0
+350,1956,Ignacio Corsini,0.0,620.0
+351,1956,Frank Sinatra,15.0,108.0
+352,1956,The Beach Boys,0.0,0.0
+353,1956,The Rolling Stones,0.0,0.0
+354,1956,Johnny Cash,4.0,17.0
+355,1956,Эрих Мария Ремарк,0.0,781.0
+356,1956,Эрнест Хемингуэй,0.0,1215.0
+357,1956,Elvis Presley,24.0,24.0
+358,1956,Bob Dylan,0.0,0.0
+359,1956,Francisco Canaro,0.0,938.0
+360,1957,Ignacio Corsini,0.0,620.0
+361,1957,The Rolling Stones,0.0,0.0
+362,1957,Johnny Cash,32.0,49.0
+363,1957,Эрих Мария Ремарк,0.0,781.0
+364,1957,Frank Sinatra,61.0,169.0
+365,1957,Elvis Presley,25.0,49.0
+366,1957,Francisco Canaro,0.0,938.0
+367,1957,Bob Dylan,0.0,0.0
+368,1957,Эрнест Хемингуэй,0.0,1215.0
+369,1957,The Beach Boys,0.0,0.0
+370,1958,Francisco Canaro,0.0,938.0
+371,1958,Elvis Presley,26.0,75.0
+372,1958,The Beach Boys,0.0,0.0
+373,1958,Frank Sinatra,43.0,212.0
+374,1958,Эрих Мария Ремарк,0.0,781.0
+375,1958,Ignacio Corsini,0.0,620.0
+376,1958,Bob Dylan,0.0,0.0
+377,1958,The Rolling Stones,0.0,0.0
+378,1958,Johnny Cash,53.0,102.0
+379,1958,Эрнест Хемингуэй,0.0,1215.0
+380,1959,Francisco Canaro,0.0,938.0
+381,1959,Эрих Мария Ремарк,0.0,781.0
+382,1959,Bob Dylan,0.0,0.0
+383,1959,Johnny Cash,38.0,140.0
+384,1959,The Rolling Stones,0.0,0.0
+385,1959,Ignacio Corsini,0.0,620.0
+386,1959,Frank Sinatra,29.0,241.0
+387,1959,The Beach Boys,0.0,0.0
+388,1959,Эрнест Хемингуэй,0.0,1215.0
+389,1959,Elvis Presley,34.0,109.0
+390,1960,Эрнест Хемингуэй,0.0,1215.0
+391,1960,The Rolling Stones,0.0,0.0
+392,1960,The Beach Boys,0.0,0.0
+393,1960,Эрих Мария Ремарк,0.0,781.0
+394,1960,Elvis Presley,36.0,145.0
+395,1960,Ignacio Corsini,0.0,620.0
+396,1960,Frank Sinatra,30.0,271.0
+397,1960,Johnny Cash,39.0,179.0
+398,1960,Francisco Canaro,0.0,938.0
+399,1960,Bob Dylan,0.0,0.0
+400,1961,Frank Sinatra,57.0,328.0
+401,1961,Эрих Мария Ремарк,0.0,781.0
+402,1961,The Rolling Stones,0.0,0.0
+403,1961,Ignacio Corsini,0.0,620.0
+404,1961,Elvis Presley,25.0,170.0
+405,1961,Francisco Canaro,0.0,938.0
+406,1961,Bob Dylan,0.0,0.0
+407,1961,Johnny Cash,13.0,192.0
+408,1961,The Beach Boys,0.0,0.0
+409,1961,Эрнест Хемингуэй,0.0,1215.0
+410,1962,Frank Sinatra,60.0,388.0
+411,1962,Ignacio Corsini,0.0,620.0
+412,1962,Bob Dylan,13.0,13.0
+413,1962,The Rolling Stones,0.0,0.0
+414,1962,The Beach Boys,12.0,12.0
+415,1962,Francisco Canaro,0.0,938.0
+416,1962,Johnny Cash,32.0,224.0
+417,1962,Elvis Presley,19.0,189.0
+418,1962,Эрнест Хемингуэй,0.0,1215.0
+419,1962,Эрих Мария Ремарк,0.0,781.0
+420,1963,Эрих Мария Ремарк,0.0,781.0
+421,1963,The Rolling Stones,0.0,0.0
+422,1963,Bob Dylan,73.0,86.0
+423,1963,Frank Sinatra,20.0,408.0
+424,1963,Ignacio Corsini,0.0,620.0
+425,1963,Francisco Canaro,0.0,938.0
+426,1963,The Beach Boys,108.0,120.0
+427,1963,Johnny Cash,21.0,245.0
+428,1963,Elvis Presley,35.0,224.0
+429,1963,Эрнест Хемингуэй,0.0,1215.0
+430,1964,Ignacio Corsini,0.0,620.0
+431,1964,Francisco Canaro,0.0,938.0
+432,1964,Johnny Cash,39.0,284.0
+433,1964,Эрих Мария Ремарк,0.0,781.0
+434,1964,Elvis Presley,21.0,245.0
+435,1964,The Beach Boys,59.0,179.0
+436,1964,Эрнест Хемингуэй,0.0,1215.0
+437,1964,The Rolling Stones,43.0,43.0
+438,1964,Bob Dylan,21.0,107.0
+439,1964,Frank Sinatra,23.0,431.0
+440,1965,Johnny Cash,20.0,304.0
+441,1965,The Beach Boys,80.0,259.0
+442,1965,The Rolling Stones,60.0,103.0
+443,1965,Bob Dylan,66.0,173.0
+444,1965,Frank Sinatra,37.0,468.0
+445,1965,Эрих Мария Ремарк,0.0,781.0
+446,1965,Elvis Presley,22.0,267.0
+447,1965,Ignacio Corsini,0.0,620.0
+448,1965,Francisco Canaro,0.0,938.0
+449,1965,Эрнест Хемингуэй,0.0,1215.0
+450,1966,Frank Sinatra,54.0,522.0
+451,1966,Bob Dylan,72.0,245.0
+452,1966,Эрих Мария Ремарк,0.0,781.0
+453,1966,The Rolling Stones,70.0,173.0
+454,1966,Johnny Cash,8.0,312.0
+455,1966,Ignacio Corsini,0.0,620.0
+456,1966,Francisco Canaro,0.0,938.0
+457,1966,Elvis Presley,13.0,280.0
+458,1966,The Beach Boys,103.0,362.0
+459,1966,Эрнест Хемингуэй,0.0,1215.0
+460,1967,Frank Sinatra,9.0,531.0
+461,1967,Bob Dylan,49.0,294.0
+462,1967,Elvis Presley,22.0,302.0
+463,1967,Эрих Мария Ремарк,0.0,781.0
+464,1967,The Rolling Stones,49.0,222.0
+465,1967,Francisco Canaro,0.0,938.0
+466,1967,Эрнест Хемингуэй,0.0,1215.0
+467,1967,The Beach Boys,31.0,393.0
+468,1967,Johnny Cash,0.0,312.0
+469,1967,Ignacio Corsini,0.0,620.0
+470,1968,Frank Sinatra,6.0,537.0
+471,1968,Francisco Canaro,0.0,938.0
+472,1968,Эрнест Хемингуэй,0.0,1215.0
+473,1968,Bob Dylan,0.0,294.0
+474,1968,The Rolling Stones,10.0,232.0
+475,1968,Johnny Cash,46.0,358.0
+476,1968,Ignacio Corsini,0.0,620.0
+477,1968,The Beach Boys,12.0,405.0
+478,1968,Эрих Мария Ремарк,0.0,781.0
+479,1968,Elvis Presley,22.0,324.0
+480,1969,Эрнест Хемингуэй,0.0,1215.0
+481,1969,Bob Dylan,9.0,303.0
+482,1969,The Beach Boys,12.0,417.0
+483,1969,Johnny Cash,26.0,384.0
+484,1969,Frank Sinatra,13.0,550.0
+485,1969,Elvis Presley,27.0,351.0
+486,1969,Ignacio Corsini,0.0,620.0
+487,1969,Francisco Canaro,0.0,938.0
+488,1969,Эрих Мария Ремарк,0.0,781.0
+489,1969,The Rolling Stones,28.0,260.0
+490,1970,Francisco Canaro,0.0,938.0
+491,1970,Эрих Мария Ремарк,0.0,781.0
+492,1970,The Rolling Stones,24.0,284.0
+493,1970,Johnny Cash,18.0,402.0
+494,1970,Эрнест Хемингуэй,0.0,1215.0
+495,1970,The Beach Boys,12.0,429.0
+496,1970,Bob Dylan,35.0,338.0
+497,1970,Ignacio Corsini,0.0,620.0
+498,1970,Frank Sinatra,0.0,550.0
+499,1970,Elvis Presley,24.0,375.0
+500,1971,Johnny Cash,3.0,405.0
+501,1971,Elvis Presley,19.0,394.0
+502,1971,Ignacio Corsini,0.0,620.0
+503,1971,Эрнест Хемингуэй,0.0,1215.0
+504,1971,The Rolling Stones,67.0,351.0
+505,1971,Frank Sinatra,4.0,554.0
+506,1971,The Beach Boys,10.0,439.0
+507,1971,Francisco Canaro,0.0,938.0
+508,1971,Bob Dylan,19.0,357.0
+509,1971,Эрих Мария Ремарк,0.0,781.0
+510,1972,Francisco Canaro,0.0,938.0
+511,1972,Elvis Presley,20.0,414.0
+512,1972,Ignacio Corsini,0.0,620.0
+513,1972,Эрнест Хемингуэй,0.0,1215.0
+514,1972,Johnny Cash,4.0,409.0
+515,1972,Bob Dylan,0.0,357.0
+516,1972,Frank Sinatra,0.0,554.0
+517,1972,The Rolling Stones,48.0,399.0
+518,1972,The Beach Boys,3.0,442.0
+519,1972,Эрих Мария Ремарк,0.0,781.0
+520,1973,Bob Dylan,14.0,371.0
+521,1973,The Rolling Stones,10.0,409.0
+522,1973,Elvis Presley,24.0,438.0
+523,1973,Ignacio Corsini,0.0,620.0
+524,1973,Francisco Canaro,0.0,938.0
+525,1973,Эрнест Хемингуэй,0.0,1215.0
+526,1973,Эрих Мария Ремарк,0.0,781.0
+527,1973,The Beach Boys,4.0,446.0
+528,1973,Frank Sinatra,3.0,557.0
+529,1973,Johnny Cash,4.0,413.0
+530,1974,Эрих Мария Ремарк,0.0,781.0
+531,1974,Elvis Presley,4.0,442.0
+532,1974,Frank Sinatra,5.0,562.0
+533,1974,Francisco Canaro,0.0,938.0
+534,1974,The Rolling Stones,18.0,427.0
+535,1974,The Beach Boys,21.0,467.0
+536,1974,Bob Dylan,31.0,402.0
+537,1974,Johnny Cash,6.0,419.0
+538,1974,Эрнест Хемингуэй,0.0,1215.0
+539,1974,Ignacio Corsini,0.0,620.0
+540,1975,Johnny Cash,8.0,427.0
+541,1975,Bob Dylan,56.0,458.0
+542,1975,The Rolling Stones,4.0,431.0
+543,1975,Francisco Canaro,0.0,938.0
+544,1975,Эрнест Хемингуэй,0.0,1215.0
+545,1975,Эрих Мария Ремарк,0.0,781.0
+546,1975,Elvis Presley,8.0,450.0
+547,1975,The Beach Boys,2.0,469.0
+548,1975,Frank Sinatra,0.0,562.0
+549,1975,Ignacio Corsini,0.0,620.0
+550,1976,The Rolling Stones,8.0,439.0
+551,1976,The Beach Boys,1.0,470.0
+552,1976,Frank Sinatra,0.0,562.0
+553,1976,Ignacio Corsini,0.0,620.0
+554,1976,Bob Dylan,15.0,473.0
+555,1976,Elvis Presley,2.0,452.0
+556,1976,Francisco Canaro,0.0,938.0
+557,1976,Эрнест Хемингуэй,0.0,1215.0
+558,1976,Эрих Мария Ремарк,0.0,781.0
+559,1976,Johnny Cash,0.0,427.0
+560,1977,The Beach Boys,4.0,474.0
+561,1977,Ignacio Corsini,0.0,620.0
+562,1977,The Rolling Stones,0.0,439.0
+563,1977,Эрнест Хемингуэй,0.0,1215.0
+564,1977,Эрих Мария Ремарк,0.0,781.0
+565,1977,Francisco Canaro,0.0,938.0
+566,1977,Bob Dylan,0.0,473.0
+567,1977,Frank Sinatra,1.0,563.0
+568,1977,Elvis Presley,6.0,458.0
+569,1977,Johnny Cash,1.0,428.0
+570,1978,Frank Sinatra,0.0,563.0
+571,1978,Эрнест Хемингуэй,0.0,1215.0
+572,1978,Elvis Presley,0.0,458.0
+573,1978,Johnny Cash,3.0,431.0
+574,1978,The Rolling Stones,30.0,469.0
+575,1978,The Beach Boys,0.0,474.0
+576,1978,Эрих Мария Ремарк,0.0,781.0
+577,1978,Bob Dylan,9.0,482.0
+578,1978,Francisco Canaro,0.0,938.0
+579,1978,Ignacio Corsini,0.0,620.0
+580,1979,Эрих Мария Ремарк,0.0,781.0
+581,1979,The Beach Boys,0.0,474.0
+582,1979,Johnny Cash,3.0,434.0
+583,1979,Elvis Presley,0.0,458.0
+584,1979,Francisco Canaro,0.0,938.0
+585,1979,The Rolling Stones,0.0,469.0
+586,1979,Frank Sinatra,0.0,563.0
+587,1979,Эрнест Хемингуэй,0.0,1215.0
+588,1979,Ignacio Corsini,0.0,620.0
+589,1979,Bob Dylan,13.0,495.0
+590,1980,Эрнест Хемингуэй,0.0,1215.0
+591,1980,The Rolling Stones,10.0,479.0
+592,1980,Ignacio Corsini,0.0,620.0
+593,1980,Эрих Мария Ремарк,0.0,781.0
+594,1980,Johnny Cash,1.0,435.0
+595,1980,The Beach Boys,0.0,474.0
+596,1980,Bob Dylan,2.0,497.0
+597,1980,Elvis Presley,0.0,458.0
+598,1980,Frank Sinatra,5.0,568.0
+599,1980,Francisco Canaro,0.0,938.0
+600,1981,Bob Dylan,6.0,503.0
+601,1981,Эрих Мария Ремарк,0.0,781.0
+602,1981,Frank Sinatra,1.0,569.0
+603,1981,Francisco Canaro,0.0,938.0
+604,1981,The Beach Boys,0.0,474.0
+605,1981,Эрнест Хемингуэй,0.0,1215.0
+606,1981,The Rolling Stones,5.0,484.0
+607,1981,Ignacio Corsini,0.0,620.0
+608,1981,Johnny Cash,1.0,436.0
+609,1981,Elvis Presley,0.0,458.0
+610,1982,Эрнест Хемингуэй,0.0,1215.0
+611,1982,Bob Dylan,0.0,503.0
+612,1982,Johnny Cash,0.0,436.0
+613,1982,Ignacio Corsini,0.0,620.0
+614,1982,Elvis Presley,0.0,458.0
+615,1982,The Beach Boys,0.0,474.0
+616,1982,Frank Sinatra,0.0,569.0
+617,1982,The Rolling Stones,3.0,487.0
+618,1982,Francisco Canaro,0.0,938.0
+619,1982,Эрих Мария Ремарк,0.0,781.0
+620,1983,Elvis Presley,0.0,458.0
+621,1983,The Beach Boys,0.0,474.0
+622,1983,The Rolling Stones,4.0,491.0
+623,1983,Bob Dylan,8.0,511.0
+624,1983,Эрих Мария Ремарк,0.0,781.0
+625,1983,Эрнест Хемингуэй,0.0,1215.0
+626,1983,Francisco Canaro,0.0,938.0
+627,1983,Ignacio Corsini,0.0,620.0
+628,1983,Frank Sinatra,0.0,569.0
+629,1983,Johnny Cash,3.0,439.0
+630,1984,The Rolling Stones,0.0,491.0
+631,1984,The Beach Boys,0.0,474.0
+632,1984,Эрих Мария Ремарк,0.0,781.0
+633,1984,Frank Sinatra,0.0,569.0
+634,1984,Francisco Canaro,0.0,938.0
+635,1984,Johnny Cash,0.0,439.0
+636,1984,Bob Dylan,0.0,511.0
+637,1984,Ignacio Corsini,0.0,620.0
+638,1984,Эрнест Хемингуэй,0.0,1215.0
+639,1984,Elvis Presley,0.0,458.0
+640,1985,Ignacio Corsini,0.0,620.0
+641,1985,Johnny Cash,0.0,439.0
+642,1985,Эрнест Хемингуэй,0.0,1215.0
+643,1985,Эрих Мария Ремарк,0.0,781.0
+644,1985,Francisco Canaro,0.0,938.0
+645,1985,The Beach Boys,1.0,475.0
+646,1985,Frank Sinatra,0.0,569.0
+647,1985,Bob Dylan,2.0,513.0
+648,1985,The Rolling Stones,0.0,491.0
+649,1985,Elvis Presley,0.0,458.0
+650,1986,The Rolling Stones,2.0,493.0
+651,1986,Francisco Canaro,0.0,938.0
+652,1986,Johnny Cash,0.0,439.0
+653,1986,Frank Sinatra,0.0,569.0
+654,1986,Elvis Presley,0.0,458.0
+655,1986,The Beach Boys,0.0,475.0
+656,1986,Ignacio Corsini,0.0,620.0
+657,1986,Bob Dylan,1.0,514.0
+658,1986,Эрнест Хемингуэй,0.0,1215.0
+659,1986,Эрих Мария Ремарк,0.0,781.0
+660,1987,Эрих Мария Ремарк,0.0,781.0
+661,1987,Francisco Canaro,0.0,938.0
+662,1987,The Beach Boys,0.0,475.0
+663,1987,Ignacio Corsini,0.0,620.0
+664,1987,The Rolling Stones,0.0,493.0
+665,1987,Bob Dylan,0.0,514.0
+666,1987,Johnny Cash,1.0,440.0
+667,1987,Frank Sinatra,0.0,569.0
+668,1987,Эрнест Хемингуэй,0.0,1215.0
+669,1987,Elvis Presley,0.0,458.0
+670,1988,Эрнест Хемингуэй,0.0,1215.0
+671,1988,Johnny Cash,2.0,442.0
+672,1988,Elvis Presley,0.0,458.0
+673,1988,Frank Sinatra,0.0,569.0
+674,1988,Francisco Canaro,0.0,938.0
+675,1988,The Beach Boys,0.0,475.0
+676,1988,The Rolling Stones,0.0,493.0
+677,1988,Эрих Мария Ремарк,0.0,781.0
+678,1988,Bob Dylan,0.0,514.0
+679,1988,Ignacio Corsini,0.0,620.0
+680,1989,Frank Sinatra,0.0,569.0
+681,1989,Elvis Presley,0.0,458.0
+682,1989,The Rolling Stones,7.0,500.0
+683,1989,Эрнест Хемингуэй,0.0,1215.0
+684,1989,The Beach Boys,0.0,475.0
+685,1989,Эрих Мария Ремарк,0.0,781.0
+686,1989,Ignacio Corsini,0.0,620.0
+687,1989,Johnny Cash,0.0,442.0
+688,1989,Bob Dylan,9.0,523.0
+689,1989,Francisco Canaro,0.0,938.0
+690,1990,The Rolling Stones,0.0,500.0
+691,1990,Francisco Canaro,0.0,938.0
+692,1990,Frank Sinatra,0.0,569.0
+693,1990,Ignacio Corsini,0.0,620.0
+694,1990,Bob Dylan,0.0,523.0
+695,1990,Elvis Presley,0.0,458.0
+696,1990,Johnny Cash,2.0,444.0
+697,1990,Эрнест Хемингуэй,0.0,1215.0
+698,1990,Эрих Мария Ремарк,0.0,781.0
+699,1990,The Beach Boys,0.0,475.0
+700,1991,Elvis Presley,0.0,458.0
+701,1991,Johnny Cash,0.0,444.0
+702,1991,Эрнест Хемингуэй,0.0,1215.0
+703,1991,The Beach Boys,0.0,475.0
+704,1991,Ignacio Corsini,0.0,620.0
+705,1991,The Rolling Stones,0.0,500.0
+706,1991,Bob Dylan,9.0,532.0
+707,1991,Эрих Мария Ремарк,0.0,781.0
+708,1991,Frank Sinatra,0.0,569.0
+709,1991,Francisco Canaro,0.0,938.0
+710,1992,Bob Dylan,0.0,532.0
+711,1992,Frank Sinatra,2.0,571.0
+712,1992,Эрнест Хемингуэй,0.0,1215.0
+713,1992,The Rolling Stones,0.0,500.0
+714,1992,Johnny Cash,0.0,444.0
+715,1992,Эрих Мария Ремарк,0.0,781.0
+716,1992,Francisco Canaro,0.0,938.0
+717,1992,Elvis Presley,0.0,458.0
+718,1992,The Beach Boys,0.0,475.0
+719,1992,Ignacio Corsini,0.0,620.0
+720,1993,Эрих Мария Ремарк,0.0,781.0
+721,1993,Francisco Canaro,0.0,938.0
+722,1993,Elvis Presley,0.0,458.0
+723,1993,Эрнест Хемингуэй,0.0,1215.0
+724,1993,The Beach Boys,0.0,475.0
+725,1993,Frank Sinatra,3.0,574.0
+726,1993,Bob Dylan,1.0,533.0
+727,1993,Johnny Cash,0.0,444.0
+728,1993,The Rolling Stones,0.0,500.0
+729,1993,Ignacio Corsini,0.0,620.0
+730,1994,Эрих Мария Ремарк,0.0,781.0
+731,1994,Johnny Cash,4.0,448.0
+732,1994,The Rolling Stones,4.0,504.0
+733,1994,Elvis Presley,0.0,458.0
+734,1994,The Beach Boys,0.0,475.0
+735,1994,Эрнест Хемингуэй,0.0,1215.0
+736,1994,Ignacio Corsini,0.0,620.0
+737,1994,Bob Dylan,0.0,533.0
+738,1994,Frank Sinatra,1.0,575.0
+739,1994,Francisco Canaro,0.0,938.0
+740,1995,Эрнест Хемингуэй,0.0,1215.0
+741,1995,Johnny Cash,0.0,448.0
+742,1995,Elvis Presley,1.0,459.0
+743,1995,Ignacio Corsini,0.0,620.0
+744,1995,The Beach Boys,0.0,475.0
+745,1995,The Rolling Stones,1.0,505.0
+746,1995,Frank Sinatra,1.0,576.0
+747,1995,Francisco Canaro,0.0,938.0
+748,1995,Эрих Мария Ремарк,0.0,781.0
+749,1995,Bob Dylan,1.0,534.0
+750,1996,Эрнест Хемингуэй,0.0,1215.0
+751,1996,The Beach Boys,0.0,475.0
+752,1996,The Rolling Stones,0.0,505.0
+753,1996,Johnny Cash,4.0,452.0
+754,1996,Frank Sinatra,4.0,580.0
+755,1996,Bob Dylan,0.0,534.0
+756,1996,Elvis Presley,0.0,459.0
+757,1996,Ignacio Corsini,0.0,620.0
+758,1996,Francisco Canaro,0.0,938.0
+759,1996,Эрих Мария Ремарк,0.0,781.0
+760,1997,Elvis Presley,0.0,459.0
+761,1997,Ignacio Corsini,0.0,620.0
+762,1997,Эрих Мария Ремарк,0.0,781.0
+763,1997,Эрнест Хемингуэй,0.0,1215.0
+764,1997,Francisco Canaro,0.0,938.0
+765,1997,Bob Dylan,4.0,538.0
+766,1997,The Rolling Stones,3.0,508.0
+767,1997,Johnny Cash,0.0,452.0
+768,1997,Frank Sinatra,0.0,580.0
+769,1997,The Beach Boys,0.0,475.0
+770,1998,The Beach Boys,0.0,475.0
+771,1998,Bob Dylan,0.0,538.0
+772,1998,Эрнест Хемингуэй,0.0,1215.0
+773,1998,Ignacio Corsini,0.0,620.0
+774,1998,Johnny Cash,0.0,452.0
+775,1998,Elvis Presley,0.0,459.0
+776,1998,The Rolling Stones,0.0,508.0
+777,1998,Эрих Мария Ремарк,0.0,781.0
+778,1998,Francisco Canaro,0.0,938.0
+779,1998,Frank Sinatra,0.0,580.0
+780,1999,Ignacio Corsini,0.0,620.0
+781,1999,Эрих Мария Ремарк,0.0,781.0
+782,1999,Bob Dylan,0.0,538.0
+783,1999,Francisco Canaro,0.0,938.0
+784,1999,Эрнест Хемингуэй,0.0,1215.0
+785,1999,Elvis Presley,0.0,459.0
+786,1999,The Rolling Stones,0.0,508.0
+787,1999,The Beach Boys,0.0,475.0
+788,1999,Frank Sinatra,0.0,580.0
+789,1999,Johnny Cash,0.0,452.0
+790,2000,Frank Sinatra,4.0,584.0
+791,2000,Эрнест Хемингуэй,0.0,1215.0
+792,2000,Elvis Presley,0.0,459.0
+793,2000,Johnny Cash,6.0,458.0
+794,2000,The Beach Boys,0.0,475.0
+795,2000,The Rolling Stones,0.0,508.0
+796,2000,Bob Dylan,1.0,539.0
+797,2000,Ignacio Corsini,0.0,620.0
+798,2000,Эрих Мария Ремарк,0.0,781.0
+799,2000,Francisco Canaro,0.0,938.0
+800,2001,Francisco Canaro,0.0,938.0
+801,2001,Bob Dylan,0.0,539.0
+802,2001,Johnny Cash,0.0,458.0
+803,2001,Frank Sinatra,0.0,584.0
+804,2001,Эрих Мария Ремарк,0.0,781.0
+805,2001,Эрнест Хемингуэй,0.0,1215.0
+806,2001,The Beach Boys,0.0,475.0
+807,2001,Ignacio Corsini,0.0,620.0
+808,2001,Elvis Presley,0.0,459.0
+809,2001,The Rolling Stones,0.0,508.0
+810,2002,Эрнест Хемингуэй,0.0,1215.0
+811,2002,The Beach Boys,0.0,475.0
+812,2002,Frank Sinatra,0.0,584.0
+813,2002,Ignacio Corsini,0.0,620.0
+814,2002,Francisco Canaro,0.0,938.0
+815,2002,Elvis Presley,21.0,480.0
+816,2002,Эрих Мария Ремарк,0.0,781.0
+817,2002,The Rolling Stones,0.0,508.0
+818,2002,Bob Dylan,0.0,539.0
+819,2002,Johnny Cash,26.0,484.0
+820,2003,Frank Sinatra,0.0,584.0
+821,2003,Elvis Presley,0.0,480.0
+822,2003,Bob Dylan,0.0,539.0
+823,2003,The Rolling Stones,0.0,508.0
+824,2003,Эрнест Хемингуэй,0.0,1215.0
+825,2003,Эрих Мария Ремарк,0.0,781.0
+826,2003,Ignacio Corsini,0.0,620.0
+827,2003,Francisco Canaro,0.0,938.0
+828,2003,The Beach Boys,3.0,478.0
+829,2003,Johnny Cash,6.0,490.0
+830,2004,The Rolling Stones,4.0,512.0
+831,2004,Frank Sinatra,0.0,584.0
+832,2004,Ignacio Corsini,0.0,620.0
+833,2004,The Beach Boys,0.0,478.0
+834,2004,Francisco Canaro,0.0,938.0
+835,2004,Johnny Cash,0.0,490.0
+836,2004,Эрнест Хемингуэй,0.0,1215.0
+837,2004,Bob Dylan,0.0,539.0
+838,2004,Эрих Мария Ремарк,0.0,781.0
+839,2004,Elvis Presley,0.0,480.0
+840,2005,Эрнест Хемингуэй,0.0,1215.0
+841,2005,Johnny Cash,1.0,491.0
+842,2005,The Beach Boys,0.0,478.0
+843,2005,Francisco Canaro,0.0,938.0
+844,2005,Ignacio Corsini,0.0,620.0
+845,2005,Эрих Мария Ремарк,0.0,781.0
+846,2005,The Rolling Stones,0.0,512.0
+847,2005,Elvis Presley,0.0,480.0
+848,2005,Frank Sinatra,0.0,584.0
+849,2005,Bob Dylan,0.0,539.0
+850,2006,Эрих Мария Ремарк,0.0,781.0
+851,2006,The Beach Boys,2.0,480.0
+852,2006,Johnny Cash,2.0,493.0
+853,2006,Francisco Canaro,0.0,938.0
+854,2006,The Rolling Stones,0.0,512.0
+855,2006,Frank Sinatra,0.0,584.0
+856,2006,Эрнест Хемингуэй,0.0,1215.0
+857,2006,Ignacio Corsini,0.0,620.0
+858,2006,Elvis Presley,0.0,480.0
+859,2006,Bob Dylan,0.0,539.0
+860,2007,Elvis Presley,8.0,488.0
+861,2007,The Rolling Stones,0.0,512.0
+862,2007,Ignacio Corsini,0.0,620.0
+863,2007,Bob Dylan,0.0,539.0
+864,2007,Эрнест Хемингуэй,0.0,1215.0
+865,2007,Johnny Cash,0.0,493.0
+866,2007,Francisco Canaro,0.0,938.0
+867,2007,Эрих Мария Ремарк,0.0,781.0
+868,2007,The Beach Boys,1.0,481.0
+869,2007,Frank Sinatra,1.0,585.0
+870,2008,Ignacio Corsini,0.0,620.0
+871,2008,Bob Dylan,0.0,539.0
+872,2008,The Rolling Stones,0.0,512.0
+873,2008,Francisco Canaro,0.0,938.0
+874,2008,Эрих Мария Ремарк,0.0,781.0
+875,2008,Elvis Presley,0.0,488.0
+876,2008,The Beach Boys,0.0,481.0
+877,2008,Frank Sinatra,3.0,588.0
+878,2008,Эрнест Хемингуэй,0.0,1215.0
+879,2008,Johnny Cash,0.0,493.0
+880,2009,The Beach Boys,0.0,481.0
+881,2009,Bob Dylan,0.0,539.0
+882,2009,Ignacio Corsini,0.0,620.0
+883,2009,The Rolling Stones,0.0,512.0
+884,2009,Francisco Canaro,0.0,938.0
+885,2009,Эрих Мария Ремарк,0.0,781.0
+886,2009,Elvis Presley,0.0,488.0
+887,2009,Frank Sinatra,0.0,588.0
+888,2009,Johnny Cash,0.0,493.0
+889,2009,Эрнест Хемингуэй,0.0,1215.0
+890,2010,Elvis Presley,0.0,488.0
+891,2010,Ignacio Corsini,0.0,620.0
+892,2010,Frank Sinatra,0.0,588.0
+893,2010,Эрих Мария Ремарк,0.0,781.0
+894,2010,Bob Dylan,0.0,539.0
+895,2010,The Beach Boys,0.0,481.0
+896,2010,Johnny Cash,2.0,495.0
+897,2010,The Rolling Stones,0.0,512.0
+898,2010,Эрнест Хемингуэй,0.0,1215.0
+899,2010,Francisco Canaro,0.0,938.0
+900,2011,Francisco Canaro,0.0,938.0
+901,2011,Elvis Presley,0.0,488.0
+902,2011,The Rolling Stones,0.0,512.0
+903,2011,Johnny Cash,2.0,497.0
+904,2011,Эрнест Хемингуэй,0.0,1215.0
+905,2011,Эрих Мария Ремарк,0.0,781.0
+906,2011,The Beach Boys,0.0,481.0
+907,2011,Frank Sinatra,0.0,588.0
+908,2011,Ignacio Corsini,0.0,620.0
+909,2011,Bob Dylan,0.0,539.0
+910,2012,The Rolling Stones,0.0,512.0
+911,2012,Frank Sinatra,0.0,588.0
+912,2012,The Beach Boys,10.0,491.0
+913,2012,Johnny Cash,0.0,497.0
+914,2012,Bob Dylan,0.0,539.0
+915,2012,Эрих Мария Ремарк,0.0,781.0
+916,2012,Elvis Presley,0.0,488.0
+917,2012,Francisco Canaro,0.0,938.0
+918,2012,Эрнест Хемингуэй,0.0,1215.0
+919,2012,Ignacio Corsini,0.0,620.0
+920,2013,Ignacio Corsini,0.0,620.0
+921,2013,Эрих Мария Ремарк,0.0,781.0
+922,2013,Francisco Canaro,0.0,938.0
+923,2013,Эрнест Хемингуэй,0.0,1215.0
+924,2013,Bob Dylan,0.0,539.0
+925,2013,Frank Sinatra,0.0,588.0
+926,2013,Elvis Presley,0.0,488.0
+927,2013,The Beach Boys,0.0,491.0
+928,2013,The Rolling Stones,0.0,512.0
+929,2013,Johnny Cash,0.0,497.0
+930,2014,The Beach Boys,0.0,491.0
+931,2014,Ignacio Corsini,0.0,620.0
+932,2014,Frank Sinatra,0.0,588.0
+933,2014,Эрнест Хемингуэй,0.0,1215.0
+934,2014,Johnny Cash,5.0,502.0
+935,2014,Francisco Canaro,0.0,938.0
+936,2014,The Rolling Stones,0.0,512.0
+937,2014,Elvis Presley,0.0,488.0
+938,2014,Bob Dylan,0.0,539.0
+939,2014,Эрих Мария Ремарк,0.0,781.0
+940,2015,Эрих Мария Ремарк,0.0,781.0
+941,2015,Francisco Canaro,0.0,938.0
+942,2015,Ignacio Corsini,0.0,620.0
+943,2015,Frank Sinatra,4.0,592.0
+944,2015,Elvis Presley,0.0,488.0
+945,2015,The Beach Boys,0.0,491.0
+946,2015,Bob Dylan,0.0,539.0
+947,2015,Эрнест Хемингуэй,0.0,1215.0
+948,2015,The Rolling Stones,0.0,512.0
+949,2015,Johnny Cash,0.0,502.0
+950,2016,Bob Dylan,0.0,539.0
+951,2016,Эрих Мария Ремарк,0.0,781.0
+952,2016,Francisco Canaro,0.0,938.0
+953,2016,Elvis Presley,0.0,488.0
+954,2016,Johnny Cash,0.0,502.0
+955,2016,Frank Sinatra,0.0,592.0
+956,2016,The Rolling Stones,0.0,512.0
+957,2016,Ignacio Corsini,0.0,620.0
+958,2016,Эрнест Хемингуэй,0.0,1215.0
+959,2016,The Beach Boys,0.0,491.0
+960,2017,Francisco Canaro,0.0,938.0
+961,2017,Elvis Presley,0.0,488.0
+962,2017,The Beach Boys,0.0,491.0
+963,2017,Эрнест Хемингуэй,0.0,1215.0
+964,2017,Bob Dylan,0.0,539.0
+965,2017,Эрих Мария Ремарк,0.0,781.0
+966,2017,Frank Sinatra,0.0,592.0
+967,2017,The Rolling Stones,0.0,512.0
+968,2017,Ignacio Corsini,0.0,620.0
+969,2017,Johnny Cash,0.0,502.0
+970,2018,Johnny Cash,0.0,502.0
+971,2018,Frank Sinatra,0.0,592.0
+972,2018,The Rolling Stones,0.0,512.0
+973,2018,Эрнест Хемингуэй,0.0,1215.0
+974,2018,Ignacio Corsini,0.0,620.0
+975,2018,Elvis Presley,0.0,488.0
+976,2018,Bob Dylan,0.0,539.0
+977,2018,Francisco Canaro,0.0,938.0
+978,2018,The Beach Boys,0.0,491.0
+979,2018,Эрих Мария Ремарк,0.0,781.0
+980,2019,The Beach Boys,0.0,491.0
+981,2019,Johnny Cash,0.0,502.0
+982,2019,Эрнест Хемингуэй,0.0,1215.0
+983,2019,The Rolling Stones,0.0,512.0
+984,2019,Ignacio Corsini,0.0,620.0
+985,2019,Эрих Мария Ремарк,0.0,781.0
+986,2019,Francisco Canaro,0.0,938.0
+987,2019,Frank Sinatra,0.0,592.0
+988,2019,Elvis Presley,0.0,488.0
+989,2019,Bob Dylan,0.0,539.0
+990,2020,Frank Sinatra,0.0,592.0
+991,2020,Johnny Cash,0.0,502.0
+992,2020,The Rolling Stones,0.0,512.0
+993,2020,Bob Dylan,0.0,539.0
+994,2020,Ignacio Corsini,0.0,620.0
+995,2020,Эрих Мария Ремарк,0.0,781.0
+996,2020,Francisco Canaro,0.0,938.0
+997,2020,Эрнест Хемингуэй,0.0,1215.0
+998,2020,The Beach Boys,0.0,491.0
+999,2020,Elvis Presley,0.0,488.0
