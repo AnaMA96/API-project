@@ -43,12 +43,11 @@ This is saved in the clen_data.csv which you can find at the 'output' folder.
 **Program**\
 Once I had the clean data, I've created some plots for data visualization with [Plotly](https://plotly.com), [Matplotlib](https://matplotlib.org) and [Seaborn](https://seaborn.pydata.org) libraries.
 
-This program has been created to be executed from the terminal with the command "python3 main.py" and one from the next arguments(argparse):
-
-'-a': the artist whom you want obtain the information from. 
-'-c': the category from which you want to get the top chart.
-'-s': the start year from the range you want to obtaing the songs list by artist.
-'-e': the end year from the range you want to obtaing the songs list by artist.
+This program has been created to be executed from the terminal with the command "python3 main.py" and one from the next arguments(argparse):\
+- '-a': the artist whom you want obtain the information from. 
+- '-c': the category from which you want to get the top chart.
+- '-s': the start year from the range you want to obtaing the songs list by artist.
+- '-e': the end year from the range you want to obtaing the songs list by artist.
 
 The program let us obtain some plots which you see at the MUSIC.py file of the repo.
 
